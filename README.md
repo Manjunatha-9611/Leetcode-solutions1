@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
