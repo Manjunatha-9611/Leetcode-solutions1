@@ -18,17 +18,34 @@ class Solution {
         // }
         // return ele;
 
-        int n = nums.length/2;
-        Map<Integer,Integer> map = new HashMap<>();
-        for(int ele : nums){
-            map.put(ele,map.getOrDefault(ele,0)+1);
-        }
 
-        for(int key : map.keySet()){
-            if(map.get(key) > n){
-                return key;
+        int count = 0;
+        int number = nums[0];
+        for(int ele : nums){
+            if(count == 0){
+                number = ele;
+            }
+            if(ele == number){
+                count++;
+            }else{
+                count--;
             }
         }
-        return 0;
+        return number;
+
+
+        // int n = nums.length/2;
+        // Map<Integer,Integer> map = new HashMap<>();
+        // for(int ele : nums){
+        //     map.put(ele,map.getOrDefault(ele,0)+1);
+        // }
+
+        // for(int key : map.keySet()){
+        //     if(map.get(key) > n){
+        //         return key;
+        //     }
+        // }
+        // return 0;
+
     }
 }
