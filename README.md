@@ -19,18 +19,21 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0145-binary-tree-postorder-traversal) |
 ## Database
@@ -50,4 +53,8 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0610-triangle-judgement) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
