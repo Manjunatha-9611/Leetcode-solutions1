@@ -15,6 +15,7 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
+        //using recursion
         if(p == null && q == null){
             return true;
         }
@@ -29,6 +30,10 @@ class Solution {
         // boolean right = isSameTree(p.right,q.right);
         //return left && right;
         return isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
+
+        //using queue
+        // Queue<Integer> lp = new ArrayList<>();
+        // Queue<Integer< rq = new ArrayList<>();
 
     }
 }
