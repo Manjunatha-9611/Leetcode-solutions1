@@ -22,26 +22,52 @@ class Solution {
         Queue<TreeNode> q = new ArrayDeque<>();
         boolean isLefttoRight = true;
         q.add(root);
+        // while(!q.isEmpty()){
+        //     List<Integer> arr = new ArrayList<>();
+        //     int size = q.size();
+        //     for(int i = 1; i<=size; i++){
+        //         TreeNode curr = q.poll();
+        //         if(isLefttoRight){
+        //             arr.add(curr.val);
+        //         }
+        //         else{
+        //             arr.add(0,curr.val);
+        //         }
+        //         if(curr.left != null){
+        //             q.add(curr.left);
+        //         }
+        //         if(curr.right != null){
+        //             q.add(curr.right);
+        //         }
+        //     }
+        //     list.add(arr);
+        //     isLefttoRight = !isLefttoRight;
+        // }
+
+        List<Integer> arr = new ArrayList<>();
+        int size = q.size();
         while(!q.isEmpty()){
-            List<Integer> arr = new ArrayList<>();
-            int size = q.size();
-            for(int i = 1; i<=size; i++){
-                TreeNode curr = q.poll();
-                if(isLefttoRight){
-                    arr.add(curr.val);
-                }
-                else{
-                    arr.add(0,curr.val);
-                }
-                if(curr.left != null){
-                    q.add(curr.left);
-                }
-                if(curr.right != null){
-                    q.add(curr.right);
-                }
+            TreeNode curr = q.poll();
+            size--;
+            if(isLefttoRight){
+                arr.add(curr.val);
             }
-            list.add(arr);
-            isLefttoRight = !isLefttoRight;
+            else{
+                arr.add(0,curr.val);
+            }
+            if(curr.left != null){
+                q.add(curr.left);
+            }
+            if(curr.right != null){
+                q.add(curr.right);
+            }
+            if(size == 0){
+                size = q.size();
+                list.add(arr);
+                arr = new ArrayList<>();
+                isLefttoRight = !isLefttoRight;
+            }
+
         }
         return list;
     }
