@@ -21,33 +21,55 @@ class Solution {
             return list;
         }
         Queue<TreeNode> q = new LinkedList<>();
-        List<Integer> arr = new ArrayList<>();
         q.add(root);
-        int size = q.size();
-        while (!q.isEmpty()) {
-            TreeNode curr = q.poll();
-            size--;
-            arr.add(curr.val);
-            // List<Integer> temp = new ArrayList<>();
-            if (curr.left != null) {
-                q.add(curr.left);
-                // temp.add(curr.left.val);
+        
+        
+        //one way
+        //List<Integer> arr = new ArrayList<>();
+        //int size = q.size();
+        // while (!q.isEmpty()) {
+        //     TreeNode curr = q.poll();
+        //     size--;
+        //     arr.add(curr.val);
+        //     // List<Integer> temp = new ArrayList<>();
+        //     if (curr.left != null) {
+        //         q.add(curr.left);
+        //         // temp.add(curr.left.val);
+        //     }
+        //     if (curr.right != null) {
+        //         q.add(curr.right);
+        //         // temp.add(curr.right.val);
+        //     }
+        //     // else{
+        //     //     continue;
+        //     // }
+        //     // List<Integer> nTemp = new ArrayList<>();
+        //     // list.add(temp);
+        //     if(size == 0){
+        //         list.add(arr);
+        //         size = q.size();
+        //         arr = new ArrayList<>();
+        //     }
+        // }
+
+
+        //2nd way
+        while(!q.isEmpty()){
+            List<Integer> arr = new ArrayList<>();
+            int size = q.size();
+            for(int i = 1;i<=size;i++){
+                TreeNode curr = q.poll();
+                arr.add(curr.val);
+                if(curr.left != null){
+                    q.add(curr.left);
+                }
+                if(curr.right != null){
+                    q.add(curr.right);
+                }
             }
-            if (curr.right != null) {
-                q.add(curr.right);
-                // temp.add(curr.right.val);
-            }
-            // else{
-            //     continue;
-            // }
-            // List<Integer> nTemp = new ArrayList<>();
-            // list.add(temp);
-            if(size == 0){
-                list.add(arr);
-                size = q.size();
-                arr = new ArrayList<>();
-            }
+            list.add(arr);
         }
+
         return list;
     }
 }
