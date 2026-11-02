@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
@@ -124,5 +126,6 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
