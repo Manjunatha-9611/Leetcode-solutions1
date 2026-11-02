@@ -12,6 +12,7 @@
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
@@ -118,6 +119,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Counting
 |  |
 | ------- |
@@ -137,10 +139,12 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
