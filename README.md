@@ -139,6 +139,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
@@ -156,4 +157,12 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
