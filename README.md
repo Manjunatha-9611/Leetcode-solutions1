@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -144,8 +146,10 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
