@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -128,4 +130,12 @@
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
