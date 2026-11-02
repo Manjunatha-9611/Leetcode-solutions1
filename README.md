@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0145-binary-tree-postorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
