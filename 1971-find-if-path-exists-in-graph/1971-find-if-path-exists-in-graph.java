@@ -1,15 +1,36 @@
 class Solution {
 
-    public boolean dfs(int start,int end,List<List<Integer>> adj,boolean[] vis){
-        if(start == end){
-            return true;
-        }
+    //dfs
+    // public boolean dfs(int start,int end,List<List<Integer>> adj,boolean[] vis){
+    //     if(start == end){
+    //         return true;
+    //     }
+    //     vis[start] = true;
+    //     for(int neighbour : adj.get(start)){
+    //         if(vis[neighbour] == false){
+    //             vis[neighbour] = true;
+    //             if(dfs(neighbour,end,adj,vis) == true){
+    //                 return true;
+    //             }
+    //         }
+    //     }
+    //     return false;
+    // }
+
+    //bfs
+    public boolean bfs(int start,int end,List<List<Integer>> adj,boolean[] vis){
+        Queue<Integer> q = new LinkedList<>();
+        q.add(start);
         vis[start] = true;
-        for(int neighbour : adj.get(start)){
-            if(vis[neighbour] == false){
-                vis[neighbour] = true;
-                if(dfs(neighbour,end,adj,vis) == true){
-                    return true;
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            if(curr == end){
+                return true;
+            }
+            for(int neighbour : adj.get(curr)){
+                if(vis[neighbour] == false){
+                    vis[neighbour] = true;
+                    q.add(neighbour);
                 }
             }
         }
@@ -29,6 +50,7 @@ class Solution {
         }
 
         boolean[] vis = new boolean[n];
-        return dfs(source,destination,adj,vis);
+        // return dfs(source,destination,adj,vis);
+        return bfs(source,destination,adj,vis);
     }
 }
