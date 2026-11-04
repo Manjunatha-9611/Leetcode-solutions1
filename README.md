@@ -177,5 +177,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
