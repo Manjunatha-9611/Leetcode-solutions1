@@ -7,6 +7,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
@@ -57,6 +58,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
@@ -105,6 +107,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
@@ -180,6 +183,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -192,5 +196,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
