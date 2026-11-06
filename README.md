@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -61,6 +62,7 @@
 | [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1971-find-if-path-exists-in-graph) |
@@ -110,6 +112,7 @@
 | [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1971-find-if-path-exists-in-graph) |
@@ -185,6 +188,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -197,5 +201,6 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
