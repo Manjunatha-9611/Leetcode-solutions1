@@ -18,6 +18,7 @@
 | [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0977-squares-of-a-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/2073-time-needed-to-buy-tickets) |
@@ -138,6 +139,7 @@
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0977-squares-of-a-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -212,4 +214,5 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
