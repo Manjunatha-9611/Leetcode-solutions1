@@ -20,6 +20,7 @@
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
