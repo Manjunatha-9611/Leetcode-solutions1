@@ -178,6 +178,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0125-valid-palindrome) |
 | [0649-dota2-senate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0649-dota2-senate) |
 ## Greedy
 |  |
@@ -203,4 +204,8 @@
 | [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
