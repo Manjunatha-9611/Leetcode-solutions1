@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
@@ -208,4 +209,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
