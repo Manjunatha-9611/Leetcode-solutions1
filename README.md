@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0136-single-number) |
@@ -140,6 +141,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
