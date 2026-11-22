@@ -25,6 +25,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -139,6 +140,7 @@
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
