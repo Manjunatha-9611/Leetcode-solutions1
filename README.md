@@ -137,6 +137,7 @@
 | [0001-two-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0125-valid-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
