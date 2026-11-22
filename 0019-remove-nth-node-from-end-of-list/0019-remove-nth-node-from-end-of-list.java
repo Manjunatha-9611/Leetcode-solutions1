@@ -27,7 +27,7 @@ class Solution {
         // curr.next = curr.next.next;
         // return head;
 
-        ListNode curr = head;
+        // ListNode curr = head;
 
         ListNode slow = head;
         ListNode fast = head;
