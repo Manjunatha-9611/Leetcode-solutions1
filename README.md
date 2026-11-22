@@ -191,6 +191,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
@@ -270,5 +271,6 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
