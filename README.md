@@ -191,6 +191,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0125-valid-palindrome](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
