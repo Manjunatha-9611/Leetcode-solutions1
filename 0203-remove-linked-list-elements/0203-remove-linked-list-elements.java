@@ -11,37 +11,38 @@
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
         //bruteforce my way
-        if (head == null) {
-            return null;
-        }
-        while (head != null && head.next != null && head.val == val)
-            head = head.next;
+        // if (head == null) {
+        //     return null;
+        // }
+        // while (head != null && head.next != null && head.val == val)
+        //     head = head.next;
 
             
-        ListNode curr = head;
-        while (curr != null && curr.next != null) {
-            if (curr.next.val != val) {
-                curr = curr.next;
-            } else {
-                curr.next = curr.next.next;
-            }
-        }
-        if (curr != null && curr.val != val) {
-            return head;
-        } else {
-            return curr.next;
-        }
-
-        // ListNode dummy = new ListNode(0);
-        // dummy.next = head;
-        // ListNode curr = dummy;
+        // ListNode curr = head;
         // while (curr != null && curr.next != null) {
-        //     if (curr.next.val == val) {
-        //         curr.next = curr.next.next;
-        //     } else {
+        //     if (curr.next.val != val) {
         //         curr = curr.next;
+        //     } else {
+        //         curr.next = curr.next.next;
         //     }
         // }
-        // return dummy.next;
+        // if (curr != null && curr.val != val) {
+        //     return head;
+        // } 
+        // else {
+        //     return curr.next;
+        // }
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode curr = dummy;
+        while (curr != null && curr.next != null) {
+            if (curr.next.val == val) {
+                curr.next = curr.next.next;
+            } else {
+                curr = curr.next;
+            }
+        }
+        return dummy.next;
     }
 }
