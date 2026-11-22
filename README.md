@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
@@ -138,6 +139,7 @@
 | [0001-two-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0904-fruit-into-baskets) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0904-fruit-into-baskets) |
