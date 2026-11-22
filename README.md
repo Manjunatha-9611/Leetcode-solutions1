@@ -39,6 +39,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0145-binary-tree-postorder-traversal) |
@@ -207,6 +208,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -278,4 +280,8 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
