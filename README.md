@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@
 | [0234-palindrome-linked-list](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
@@ -172,6 +174,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Manjunatha-9611/Leetcode-solutions1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
